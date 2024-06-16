@@ -1711,7 +1711,7 @@ input, select, textarea {
 			content: '>>';
 			position: absolute;
 			opacity: 0;  
-			top: 16px;
+			top: 20px;
 			right: -20px;
 			transition: 0.5s;
 		}
